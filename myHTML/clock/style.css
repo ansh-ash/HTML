@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+#clock {
+  font-size: 200px;
+  margin: 200px;
+  text-align: center;
+  color: white;
+}
+.button {
+  font-size: 40px;
+  width: 1450px;
+  background-color: black;
+  color: white;
+  border: 0px;
+}
